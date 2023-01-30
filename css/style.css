@@ -1,0 +1,69 @@
+.icon i{
+   color: white;
+}
+.header1{
+    font-size: 50px;
+    color: white;
+}
+.header2{
+    font-size: 40px;
+}
+.para1{
+    color: white;
+    opacity: 0.5;
+}
+.bton button{
+    color: white;
+}
+.bton span {
+    color: white;
+}
+.bton i{
+    background-color: white;
+    padding: 3px;
+    border-radius: 50%;
+}
+.header3{
+    letter-spacing: 4px;
+}
+.cont3{
+    padding-top: 40px;
+}
+.icons i{
+    padding: 30px;
+    background-color: orange;
+    border-radius: 50%;
+}
+.para2{
+    color: orange;
+}
+.arrow i{
+    padding: 20px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.bord{
+    border-bottom: 1px solid orange;
+}
+.opac{
+    background-color: rgba(170, 167, 167, 0.192);
+  
+}
+.header5{
+    font-size: 50px;
+    color: white;
+}
+.inp{
+    padding: 10px;
+    width: 30%;
+}
+.footer1{
+    color: white;
+}
+.icon3 i{
+    padding: 10px;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+}
